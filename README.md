@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-GraphQL/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras-eLearning/pulls)
 
 
